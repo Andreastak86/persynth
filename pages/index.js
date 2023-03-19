@@ -19,7 +19,7 @@ export default function Home() {
                 <link rel='icon' href='/favicon.ico' />
             </Head>
             <main>
-                <div className=' my-6 text-white text-4xl flex flex-col justify-center items-center'>
+                <div className=' my-6 text-white text-4xl flex flex-col justify-center items-center md:text-center'>
                     <p>Follow for more</p>
                     <br />
                     <p>Site is under construction</p>
